@@ -1,16 +1,6 @@
 # 
 
-<h1 style='; border:0; border-radius: 10px; text-shadow: 1px 1px black; font-weight: bold; color:#4D1873'><center> TWITTER SENTIMENT ANALYSIS 😊🤬 </center></h1>
-
-![image.png](attachment:4bae0a23-b25b-4024-a476-e0c87d51d25c.png)
-
-<a id='top'></a>
-<div class="list-group" id="list-tab" role="tablist">
-<p style="background-color:#4D1873; font-family:arial;color:#FFFFFF;font-size:170%;text-align:center;border-radius:55px 1px;">INTRODUCTION</p>
-
-<a id='top'></a>
-<div class="list-group" id="list-tab" role="tablist">
-<p style="background-color:#4D1873 ;font-family:arial;color:#FFFFFF;font-size:170%;text-align:center;border-radius:55px 1px;">IMPORT NECESSARY LIBRARIES</p>
+IMPORT NECESSARY LIBRARIES
 
 import pandas as pd
 import numpy as np
